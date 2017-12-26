@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6204e003-5ef9-4519-90ad-7e3ddae737ca" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Taks9/bin/Debug/Taks9.exe" afterPath="$PROJECT_DIR$/Taks9/bin/Debug/Taks9.exe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Taks9/bin/Debug/Taks9.pdb" afterPath="$PROJECT_DIR$/Taks9/bin/Debug/Taks9.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Taks9/obj/Debug/Taks9.exe" afterPath="$PROJECT_DIR$/Taks9/obj/Debug/Taks9.exe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Taks9/obj/Debug/Taks9.pdb" afterPath="$PROJECT_DIR$/Taks9/obj/Debug/Taks9.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.SamonenkoTaks9/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.SamonenkoTaks9/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Taks9/Program.cs" afterPath="$PROJECT_DIR$/Taks9/Program.cs" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Taks9/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="305">
+              <caret line="102" column="62" lean-forward="true" selection-start-line="102" selection-start-column="62" selection-end-line="102" selection-end-column="62" />
+              <folding>
+                <marker date="1512845874329" expanded="true" signature="6:157" ph="..." />
+                <marker date="1512845874329" expanded="true" signature="183:14627" ph="{...}" />
+                <marker date="1512845874329" expanded="true" signature="200:291" ph="{...}" />
+                <marker date="1512845874329" expanded="true" signature="311:453" ph="{...}" />
+                <marker date="1512845874329" expanded="true" signature="468:563" ph="{...}" />
+                <marker date="1512845874329" expanded="true" signature="582:14625" ph="{...}" />
+                <marker date="1512845874329" expanded="true" signature="628:14619" ph="{...}" />
+                <marker date="1512845874329" expanded="true" signature="690:1234" ph="{...}" />
+                <marker date="1512845874329" expanded="true" signature="1436:1676" ph="/* Вывод на консоль исходного списка ... */" />
+                <marker date="1512845874329" expanded="true" signature="2358:2448" ph="/* Дана последовательность непустых строк. ... */" />
+                <marker date="1512845874329" expanded="true" signature="2656:3033" ph="/* LinqBegin3. Дано целое число L (&gt; 0) и строковая последовательность A. ... */" />
+                <marker date="1512845874329" expanded="true" signature="3311:3506" ph="/* LinqBegin5. Дан символ С и строковая последовательность A. ... */" />
+                <marker date="1512845874329" expanded="true" signature="3816:3974" ph="/* LinqBegin6. Дана строковая последовательность. ... */" />
+                <marker date="1512845874329" expanded="true" signature="4240:4427" ph="/* LinqBegin11. Дана последовательность непустых строк. ... */" />
+                <marker date="1512845874329" expanded="true" signature="4780:5169" ph="/* LinqBegin30. Дано целое число K (&gt; 0) и целочисленная последовательность A. ... */" />
+                <marker date="1512845874329" expanded="true" signature="5416:5725" ph="/* LinqBegin22. Дано целое число K (&gt; 0) и строковая последовательность A. ... */" />
+                <marker date="1512845874329" expanded="true" signature="6140:6329" ph="/* stringsQuery.ToList().ForEach(s =&gt; Console.WriteLine(s)); ... */" />
+                <marker date="1512845874329" expanded="true" signature="6375:6840" ph="/* LinqBegin29. Даны целые числа D и K (K &gt; 0) и целочисленная последовательность A. ... */" />
+                <marker date="1512845874329" expanded="true" signature="7141:7349" ph="/* LinqBegin34. Дана последовательность положительных целых чисел. ... */" />
+                <marker date="1512845874329" expanded="true" signature="7583:8056" ph="/* LinqBegin36. Дана последовательность непустых строк. ... */" />
+                <marker date="1512845874329" expanded="true" signature="8223:8412" ph="{...}" />
+                <marker date="1512845874329" expanded="true" signature="8551:8852" ph="/* LinqBegin44. Даны целые числа K1 и K2 и целочисленные последовательности A и B. ... */" />
+                <marker date="1512845874329" expanded="true" signature="9324:10066" ph="/* LinqBegin46. Даны последовательности положительных целых чисел A и B; все числа в каждой последовательности ра ... */" />
+                <marker date="1512845874329" expanded="true" signature="10398:11121" ph="/* LinqBegin48.Даны строковые последовательности A и B; все строки в каждой последовательности различны, ... */" />
+                <marker date="1512845874329" expanded="true" signature="11654:12235" ph="/* LinqBegin56. Дана целочисленная последовательность A. ... */" />
+                <marker date="1512845874329" expanded="true" signature="12545:12948" ph="{...}" />
+                <marker date="1512845874329" expanded="true" signature="12717:12807" ph="{...}" />
+                <marker date="1512845874329" expanded="true" signature="12988:13637" ph="/* LinqObj17. Исходная последовательность содержит сведения об абитуриентах. Каждый элемент последовательности ... */" />
+                <marker date="1512845874329" expanded="true" signature="13721:14013" ph="{...}" />
+                <marker date="1512845874329" expanded="true" signature="14184:14324" ph="{...}" />
+                <marker date="1512845874329" expanded="true" signature="14386:14577" ph="/* foreach (var l in result) ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Order</find>
+      <find>Count</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Taks9/Program.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Taks9/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1260" />
+    <option name="height" value="944" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SamonenkoTaks9 (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.Default">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Taks9/Taks9.csproj" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.5" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Taks9/bin/Debug/Taks9.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6204e003-5ef9-4519-90ad-7e3ddae737ca" name="Default" comment="" />
+      <created>1512755930226</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1512755930226</updated>
+      <workItem from="1512755943002" duration="98000" />
+      <workItem from="1512756146036" duration="3752000" />
+      <workItem from="1512760691009" duration="10751000" />
+      <workItem from="1512798676889" duration="365000" />
+      <workItem from="1512803167335" duration="751000" />
+      <workItem from="1512804577579" duration="19226000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="34943000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19572368" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34868422" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1452345" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Taks9/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1512845874329" expanded="true" signature="6:157" ph="..." />
+            <marker date="1512845874329" expanded="true" signature="183:14627" ph="{...}" />
+            <marker date="1512845874329" expanded="true" signature="200:291" ph="{...}" />
+            <marker date="1512845874329" expanded="true" signature="311:453" ph="{...}" />
+            <marker date="1512845874329" expanded="true" signature="468:563" ph="{...}" />
+            <marker date="1512845874329" expanded="true" signature="582:14625" ph="{...}" />
+            <marker date="1512845874329" expanded="true" signature="628:14619" ph="{...}" />
+            <marker date="1512845874329" expanded="true" signature="690:1234" ph="{...}" />
+            <marker date="1512845874329" expanded="true" signature="1436:1676" ph="/* Вывод на консоль исходного списка ... */" />
+            <marker date="1512845874329" expanded="true" signature="2358:2448" ph="/* Дана последовательность непустых строк. ... */" />
+            <marker date="1512845874329" expanded="true" signature="2656:3033" ph="/* LinqBegin3. Дано целое число L (&gt; 0) и строковая последовательность A. ... */" />
+            <marker date="1512845874329" expanded="true" signature="3311:3506" ph="/* LinqBegin5. Дан символ С и строковая последовательность A. ... */" />
+            <marker date="1512845874329" expanded="true" signature="3816:3974" ph="/* LinqBegin6. Дана строковая последовательность. ... */" />
+            <marker date="1512845874329" expanded="true" signature="4240:4427" ph="/* LinqBegin11. Дана последовательность непустых строк. ... */" />
+            <marker date="1512845874329" expanded="true" signature="4780:5169" ph="/* LinqBegin30. Дано целое число K (&gt; 0) и целочисленная последовательность A. ... */" />
+            <marker date="1512845874329" expanded="true" signature="5416:5725" ph="/* LinqBegin22. Дано целое число K (&gt; 0) и строковая последовательность A. ... */" />
+            <marker date="1512845874329" expanded="true" signature="6140:6329" ph="/* stringsQuery.ToList().ForEach(s =&gt; Console.WriteLine(s)); ... */" />
+            <marker date="1512845874329" expanded="true" signature="6375:6840" ph="/* LinqBegin29. Даны целые числа D и K (K &gt; 0) и целочисленная последовательность A. ... */" />
+            <marker date="1512845874329" expanded="true" signature="7141:7349" ph="/* LinqBegin34. Дана последовательность положительных целых чисел. ... */" />
+            <marker date="1512845874329" expanded="true" signature="7583:8056" ph="/* LinqBegin36. Дана последовательность непустых строк. ... */" />
+            <marker date="1512845874329" expanded="true" signature="8223:8412" ph="{...}" />
+            <marker date="1512845874329" expanded="true" signature="8551:8852" ph="/* LinqBegin44. Даны целые числа K1 и K2 и целочисленные последовательности A и B. ... */" />
+            <marker date="1512845874329" expanded="true" signature="9324:10066" ph="/* LinqBegin46. Даны последовательности положительных целых чисел A и B; все числа в каждой последовательности ра ... */" />
+            <marker date="1512845874329" expanded="true" signature="10398:11121" ph="/* LinqBegin48.Даны строковые последовательности A и B; все строки в каждой последовательности различны, ... */" />
+            <marker date="1512845874329" expanded="true" signature="11654:12235" ph="/* LinqBegin56. Дана целочисленная последовательность A. ... */" />
+            <marker date="1512845874329" expanded="true" signature="12545:12948" ph="{...}" />
+            <marker date="1512845874329" expanded="true" signature="12717:12807" ph="{...}" />
+            <marker date="1512845874329" expanded="true" signature="12988:13637" ph="/* LinqObj17. Исходная последовательность содержит сведения об абитуриентах. Каждый элемент последовательности ... */" />
+            <marker date="1512845874329" expanded="true" signature="13721:14013" ph="{...}" />
+            <marker date="1512845874329" expanded="true" signature="14184:14324" ph="{...}" />
+            <marker date="1512845874329" expanded="true" signature="14386:14577" ph="/* foreach (var l in result) ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Taks9/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1512845874329" expanded="true" signature="6:157" ph="..." />
+            <marker date="1512845874329" expanded="true" signature="183:14627" ph="{...}" />
+            <marker date="1512845874329" expanded="true" signature="200:291" ph="{...}" />
+            <marker date="1512845874329" expanded="true" signature="311:453" ph="{...}" />
+            <marker date="1512845874329" expanded="true" signature="468:563" ph="{...}" />
+            <marker date="1512845874329" expanded="true" signature="582:14625" ph="{...}" />
+            <marker date="1512845874329" expanded="true" signature="628:14619" ph="{...}" />
+            <marker date="1512845874329" expanded="true" signature="690:1234" ph="{...}" />
+            <marker date="1512845874329" expanded="true" signature="1436:1676" ph="/* Вывод на консоль исходного списка ... */" />
+            <marker date="1512845874329" expanded="true" signature="2358:2448" ph="/* Дана последовательность непустых строк. ... */" />
+            <marker date="1512845874329" expanded="true" signature="2656:3033" ph="/* LinqBegin3. Дано целое число L (&gt; 0) и строковая последовательность A. ... */" />
+            <marker date="1512845874329" expanded="true" signature="3311:3506" ph="/* LinqBegin5. Дан символ С и строковая последовательность A. ... */" />
+            <marker date="1512845874329" expanded="true" signature="3816:3974" ph="/* LinqBegin6. Дана строковая последовательность. ... */" />
+            <marker date="1512845874329" expanded="true" signature="4240:4427" ph="/* LinqBegin11. Дана последовательность непустых строк. ... */" />
+            <marker date="1512845874329" expanded="true" signature="4780:5169" ph="/* LinqBegin30. Дано целое число K (&gt; 0) и целочисленная последовательность A. ... */" />
+            <marker date="1512845874329" expanded="true" signature="5416:5725" ph="/* LinqBegin22. Дано целое число K (&gt; 0) и строковая последовательность A. ... */" />
+            <marker date="1512845874329" expanded="true" signature="6140:6329" ph="/* stringsQuery.ToList().ForEach(s =&gt; Console.WriteLine(s)); ... */" />
+            <marker date="1512845874329" expanded="true" signature="6375:6840" ph="/* LinqBegin29. Даны целые числа D и K (K &gt; 0) и целочисленная последовательность A. ... */" />
+            <marker date="1512845874329" expanded="true" signature="7141:7349" ph="/* LinqBegin34. Дана последовательность положительных целых чисел. ... */" />
+            <marker date="1512845874329" expanded="true" signature="7583:8056" ph="/* LinqBegin36. Дана последовательность непустых строк. ... */" />
+            <marker date="1512845874329" expanded="true" signature="8223:8412" ph="{...}" />
+            <marker date="1512845874329" expanded="true" signature="8551:8852" ph="/* LinqBegin44. Даны целые числа K1 и K2 и целочисленные последовательности A и B. ... */" />
+            <marker date="1512845874329" expanded="true" signature="9324:10066" ph="/* LinqBegin46. Даны последовательности положительных целых чисел A и B; все числа в каждой последовательности ра ... */" />
+            <marker date="1512845874329" expanded="true" signature="10398:11121" ph="/* LinqBegin48.Даны строковые последовательности A и B; все строки в каждой последовательности различны, ... */" />
+            <marker date="1512845874329" expanded="true" signature="11654:12235" ph="/* LinqBegin56. Дана целочисленная последовательность A. ... */" />
+            <marker date="1512845874329" expanded="true" signature="12545:12948" ph="{...}" />
+            <marker date="1512845874329" expanded="true" signature="12717:12807" ph="{...}" />
+            <marker date="1512845874329" expanded="true" signature="12988:13637" ph="/* LinqObj17. Исходная последовательность содержит сведения об абитуриентах. Каждый элемент последовательности ... */" />
+            <marker date="1512845874329" expanded="true" signature="13721:14013" ph="{...}" />
+            <marker date="1512845874329" expanded="true" signature="14184:14324" ph="{...}" />
+            <marker date="1512845874329" expanded="true" signature="14386:14577" ph="/* foreach (var l in result) ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Taks9/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1512845874329" expanded="true" signature="6:157" ph="..." />
+            <marker date="1512845874329" expanded="true" signature="183:14627" ph="{...}" />
+            <marker date="1512845874329" expanded="true" signature="200:291" ph="{...}" />
+            <marker date="1512845874329" expanded="true" signature="311:453" ph="{...}" />
+            <marker date="1512845874329" expanded="true" signature="468:563" ph="{...}" />
+            <marker date="1512845874329" expanded="true" signature="582:14625" ph="{...}" />
+            <marker date="1512845874329" expanded="true" signature="628:14619" ph="{...}" />
+            <marker date="1512845874329" expanded="true" signature="690:1234" ph="{...}" />
+            <marker date="1512845874329" expanded="true" signature="1436:1676" ph="/* Вывод на консоль исходного списка ... */" />
+            <marker date="1512845874329" expanded="true" signature="2358:2448" ph="/* Дана последовательность непустых строк. ... */" />
+            <marker date="1512845874329" expanded="true" signature="2656:3033" ph="/* LinqBegin3. Дано целое число L (&gt; 0) и строковая последовательность A. ... */" />
+            <marker date="1512845874329" expanded="true" signature="3311:3506" ph="/* LinqBegin5. Дан символ С и строковая последовательность A. ... */" />
+            <marker date="1512845874329" expanded="true" signature="3816:3974" ph="/* LinqBegin6. Дана строковая последовательность. ... */" />
+            <marker date="1512845874329" expanded="true" signature="4240:4427" ph="/* LinqBegin11. Дана последовательность непустых строк. ... */" />
+            <marker date="1512845874329" expanded="true" signature="4780:5169" ph="/* LinqBegin30. Дано целое число K (&gt; 0) и целочисленная последовательность A. ... */" />
+            <marker date="1512845874329" expanded="true" signature="5416:5725" ph="/* LinqBegin22. Дано целое число K (&gt; 0) и строковая последовательность A. ... */" />
+            <marker date="1512845874329" expanded="true" signature="6140:6329" ph="/* stringsQuery.ToList().ForEach(s =&gt; Console.WriteLine(s)); ... */" />
+            <marker date="1512845874329" expanded="true" signature="6375:6840" ph="/* LinqBegin29. Даны целые числа D и K (K &gt; 0) и целочисленная последовательность A. ... */" />
+            <marker date="1512845874329" expanded="true" signature="7141:7349" ph="/* LinqBegin34. Дана последовательность положительных целых чисел. ... */" />
+            <marker date="1512845874329" expanded="true" signature="7583:8056" ph="/* LinqBegin36. Дана последовательность непустых строк. ... */" />
+            <marker date="1512845874329" expanded="true" signature="8223:8412" ph="{...}" />
+            <marker date="1512845874329" expanded="true" signature="8551:8852" ph="/* LinqBegin44. Даны целые числа K1 и K2 и целочисленные последовательности A и B. ... */" />
+            <marker date="1512845874329" expanded="true" signature="9324:10066" ph="/* LinqBegin46. Даны последовательности положительных целых чисел A и B; все числа в каждой последовательности ра ... */" />
+            <marker date="1512845874329" expanded="true" signature="10398:11121" ph="/* LinqBegin48.Даны строковые последовательности A и B; все строки в каждой последовательности различны, ... */" />
+            <marker date="1512845874329" expanded="true" signature="11654:12235" ph="/* LinqBegin56. Дана целочисленная последовательность A. ... */" />
+            <marker date="1512845874329" expanded="true" signature="12545:12948" ph="{...}" />
+            <marker date="1512845874329" expanded="true" signature="12717:12807" ph="{...}" />
+            <marker date="1512845874329" expanded="true" signature="12988:13637" ph="/* LinqObj17. Исходная последовательность содержит сведения об абитуриентах. Каждый элемент последовательности ... */" />
+            <marker date="1512845874329" expanded="true" signature="13721:14013" ph="{...}" />
+            <marker date="1512845874329" expanded="true" signature="14184:14324" ph="{...}" />
+            <marker date="1512845874329" expanded="true" signature="14386:14577" ph="/* foreach (var l in result) ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Taks9/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1512845874329" expanded="true" signature="6:157" ph="..." />
+            <marker date="1512845874329" expanded="true" signature="183:14627" ph="{...}" />
+            <marker date="1512845874329" expanded="true" signature="200:291" ph="{...}" />
+            <marker date="1512845874329" expanded="true" signature="311:453" ph="{...}" />
+            <marker date="1512845874329" expanded="true" signature="468:563" ph="{...}" />
+            <marker date="1512845874329" expanded="true" signature="582:14625" ph="{...}" />
+            <marker date="1512845874329" expanded="true" signature="628:14619" ph="{...}" />
+            <marker date="1512845874329" expanded="true" signature="690:1234" ph="{...}" />
+            <marker date="1512845874329" expanded="true" signature="1436:1676" ph="/* Вывод на консоль исходного списка ... */" />
+            <marker date="1512845874329" expanded="true" signature="2358:2448" ph="/* Дана последовательность непустых строк. ... */" />
+            <marker date="1512845874329" expanded="true" signature="2656:3033" ph="/* LinqBegin3. Дано целое число L (&gt; 0) и строковая последовательность A. ... */" />
+            <marker date="1512845874329" expanded="true" signature="3311:3506" ph="/* LinqBegin5. Дан символ С и строковая последовательность A. ... */" />
+            <marker date="1512845874329" expanded="true" signature="3816:3974" ph="/* LinqBegin6. Дана строковая последовательность. ... */" />
+            <marker date="1512845874329" expanded="true" signature="4240:4427" ph="/* LinqBegin11. Дана последовательность непустых строк. ... */" />
+            <marker date="1512845874329" expanded="true" signature="4780:5169" ph="/* LinqBegin30. Дано целое число K (&gt; 0) и целочисленная последовательность A. ... */" />
+            <marker date="1512845874329" expanded="true" signature="5416:5725" ph="/* LinqBegin22. Дано целое число K (&gt; 0) и строковая последовательность A. ... */" />
+            <marker date="1512845874329" expanded="true" signature="6140:6329" ph="/* stringsQuery.ToList().ForEach(s =&gt; Console.WriteLine(s)); ... */" />
+            <marker date="1512845874329" expanded="true" signature="6375:6840" ph="/* LinqBegin29. Даны целые числа D и K (K &gt; 0) и целочисленная последовательность A. ... */" />
+            <marker date="1512845874329" expanded="true" signature="7141:7349" ph="/* LinqBegin34. Дана последовательность положительных целых чисел. ... */" />
+            <marker date="1512845874329" expanded="true" signature="7583:8056" ph="/* LinqBegin36. Дана последовательность непустых строк. ... */" />
+            <marker date="1512845874329" expanded="true" signature="8223:8412" ph="{...}" />
+            <marker date="1512845874329" expanded="true" signature="8551:8852" ph="/* LinqBegin44. Даны целые числа K1 и K2 и целочисленные последовательности A и B. ... */" />
+            <marker date="1512845874329" expanded="true" signature="9324:10066" ph="/* LinqBegin46. Даны последовательности положительных целых чисел A и B; все числа в каждой последовательности ра ... */" />
+            <marker date="1512845874329" expanded="true" signature="10398:11121" ph="/* LinqBegin48.Даны строковые последовательности A и B; все строки в каждой последовательности различны, ... */" />
+            <marker date="1512845874329" expanded="true" signature="11654:12235" ph="/* LinqBegin56. Дана целочисленная последовательность A. ... */" />
+            <marker date="1512845874329" expanded="true" signature="12545:12948" ph="{...}" />
+            <marker date="1512845874329" expanded="true" signature="12717:12807" ph="{...}" />
+            <marker date="1512845874329" expanded="true" signature="12988:13637" ph="/* LinqObj17. Исходная последовательность содержит сведения об абитуриентах. Каждый элемент последовательности ... */" />
+            <marker date="1512845874329" expanded="true" signature="13721:14013" ph="{...}" />
+            <marker date="1512845874329" expanded="true" signature="14184:14324" ph="{...}" />
+            <marker date="1512845874329" expanded="true" signature="14386:14577" ph="/* foreach (var l in result) ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Taks9/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1512845874329" expanded="true" signature="6:157" ph="..." />
+            <marker date="1512845874329" expanded="true" signature="183:14627" ph="{...}" />
+            <marker date="1512845874329" expanded="true" signature="200:291" ph="{...}" />
+            <marker date="1512845874329" expanded="true" signature="311:453" ph="{...}" />
+            <marker date="1512845874329" expanded="true" signature="468:563" ph="{...}" />
+            <marker date="1512845874329" expanded="true" signature="582:14625" ph="{...}" />
+            <marker date="1512845874329" expanded="true" signature="628:14619" ph="{...}" />
+            <marker date="1512845874329" expanded="true" signature="690:1234" ph="{...}" />
+            <marker date="1512845874329" expanded="true" signature="1436:1676" ph="/* Вывод на консоль исходного списка ... */" />
+            <marker date="1512845874329" expanded="true" signature="2358:2448" ph="/* Дана последовательность непустых строк. ... */" />
+            <marker date="1512845874329" expanded="true" signature="2656:3033" ph="/* LinqBegin3. Дано целое число L (&gt; 0) и строковая последовательность A. ... */" />
+            <marker date="1512845874329" expanded="true" signature="3311:3506" ph="/* LinqBegin5. Дан символ С и строковая последовательность A. ... */" />
+            <marker date="1512845874329" expanded="true" signature="3816:3974" ph="/* LinqBegin6. Дана строковая последовательность. ... */" />
+            <marker date="1512845874329" expanded="true" signature="4240:4427" ph="/* LinqBegin11. Дана последовательность непустых строк. ... */" />
+            <marker date="1512845874329" expanded="true" signature="4780:5169" ph="/* LinqBegin30. Дано целое число K (&gt; 0) и целочисленная последовательность A. ... */" />
+            <marker date="1512845874329" expanded="true" signature="5416:5725" ph="/* LinqBegin22. Дано целое число K (&gt; 0) и строковая последовательность A. ... */" />
+            <marker date="1512845874329" expanded="true" signature="6140:6329" ph="/* stringsQuery.ToList().ForEach(s =&gt; Console.WriteLine(s)); ... */" />
+            <marker date="1512845874329" expanded="true" signature="6375:6840" ph="/* LinqBegin29. Даны целые числа D и K (K &gt; 0) и целочисленная последовательность A. ... */" />
+            <marker date="1512845874329" expanded="true" signature="7141:7349" ph="/* LinqBegin34. Дана последовательность положительных целых чисел. ... */" />
+            <marker date="1512845874329" expanded="true" signature="7583:8056" ph="/* LinqBegin36. Дана последовательность непустых строк. ... */" />
+            <marker date="1512845874329" expanded="true" signature="8223:8412" ph="{...}" />
+            <marker date="1512845874329" expanded="true" signature="8551:8852" ph="/* LinqBegin44. Даны целые числа K1 и K2 и целочисленные последовательности A и B. ... */" />
+            <marker date="1512845874329" expanded="true" signature="9324:10066" ph="/* LinqBegin46. Даны последовательности положительных целых чисел A и B; все числа в каждой последовательности ра ... */" />
+            <marker date="1512845874329" expanded="true" signature="10398:11121" ph="/* LinqBegin48.Даны строковые последовательности A и B; все строки в каждой последовательности различны, ... */" />
+            <marker date="1512845874329" expanded="true" signature="11654:12235" ph="/* LinqBegin56. Дана целочисленная последовательность A. ... */" />
+            <marker date="1512845874329" expanded="true" signature="12545:12948" ph="{...}" />
+            <marker date="1512845874329" expanded="true" signature="12717:12807" ph="{...}" />
+            <marker date="1512845874329" expanded="true" signature="12988:13637" ph="/* LinqObj17. Исходная последовательность содержит сведения об абитуриентах. Каждый элемент последовательности ... */" />
+            <marker date="1512845874329" expanded="true" signature="13721:14013" ph="{...}" />
+            <marker date="1512845874329" expanded="true" signature="14184:14324" ph="{...}" />
+            <marker date="1512845874329" expanded="true" signature="14386:14577" ph="/* foreach (var l in result) ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Taks9/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="102" column="62" lean-forward="true" selection-start-line="102" selection-start-column="62" selection-end-line="102" selection-end-column="62" />
+          <folding>
+            <marker date="1512845874329" expanded="true" signature="6:157" ph="..." />
+            <marker date="1512845874329" expanded="true" signature="183:14627" ph="{...}" />
+            <marker date="1512845874329" expanded="true" signature="200:291" ph="{...}" />
+            <marker date="1512845874329" expanded="true" signature="311:453" ph="{...}" />
+            <marker date="1512845874329" expanded="true" signature="468:563" ph="{...}" />
+            <marker date="1512845874329" expanded="true" signature="582:14625" ph="{...}" />
+            <marker date="1512845874329" expanded="true" signature="628:14619" ph="{...}" />
+            <marker date="1512845874329" expanded="true" signature="690:1234" ph="{...}" />
+            <marker date="1512845874329" expanded="true" signature="1436:1676" ph="/* Вывод на консоль исходного списка ... */" />
+            <marker date="1512845874329" expanded="true" signature="2358:2448" ph="/* Дана последовательность непустых строк. ... */" />
+            <marker date="1512845874329" expanded="true" signature="2656:3033" ph="/* LinqBegin3. Дано целое число L (&gt; 0) и строковая последовательность A. ... */" />
+            <marker date="1512845874329" expanded="true" signature="3311:3506" ph="/* LinqBegin5. Дан символ С и строковая последовательность A. ... */" />
+            <marker date="1512845874329" expanded="true" signature="3816:3974" ph="/* LinqBegin6. Дана строковая последовательность. ... */" />
+            <marker date="1512845874329" expanded="true" signature="4240:4427" ph="/* LinqBegin11. Дана последовательность непустых строк. ... */" />
+            <marker date="1512845874329" expanded="true" signature="4780:5169" ph="/* LinqBegin30. Дано целое число K (&gt; 0) и целочисленная последовательность A. ... */" />
+            <marker date="1512845874329" expanded="true" signature="5416:5725" ph="/* LinqBegin22. Дано целое число K (&gt; 0) и строковая последовательность A. ... */" />
+            <marker date="1512845874329" expanded="true" signature="6140:6329" ph="/* stringsQuery.ToList().ForEach(s =&gt; Console.WriteLine(s)); ... */" />
+            <marker date="1512845874329" expanded="true" signature="6375:6840" ph="/* LinqBegin29. Даны целые числа D и K (K &gt; 0) и целочисленная последовательность A. ... */" />
+            <marker date="1512845874329" expanded="true" signature="7141:7349" ph="/* LinqBegin34. Дана последовательность положительных целых чисел. ... */" />
+            <marker date="1512845874329" expanded="true" signature="7583:8056" ph="/* LinqBegin36. Дана последовательность непустых строк. ... */" />
+            <marker date="1512845874329" expanded="true" signature="8223:8412" ph="{...}" />
+            <marker date="1512845874329" expanded="true" signature="8551:8852" ph="/* LinqBegin44. Даны целые числа K1 и K2 и целочисленные последовательности A и B. ... */" />
+            <marker date="1512845874329" expanded="true" signature="9324:10066" ph="/* LinqBegin46. Даны последовательности положительных целых чисел A и B; все числа в каждой последовательности ра ... */" />
+            <marker date="1512845874329" expanded="true" signature="10398:11121" ph="/* LinqBegin48.Даны строковые последовательности A и B; все строки в каждой последовательности различны, ... */" />
+            <marker date="1512845874329" expanded="true" signature="11654:12235" ph="/* LinqBegin56. Дана целочисленная последовательность A. ... */" />
+            <marker date="1512845874329" expanded="true" signature="12545:12948" ph="{...}" />
+            <marker date="1512845874329" expanded="true" signature="12717:12807" ph="{...}" />
+            <marker date="1512845874329" expanded="true" signature="12988:13637" ph="/* LinqObj17. Исходная последовательность содержит сведения об абитуриентах. Каждый элемент последовательности ... */" />
+            <marker date="1512845874329" expanded="true" signature="13721:14013" ph="{...}" />
+            <marker date="1512845874329" expanded="true" signature="14184:14324" ph="{...}" />
+            <marker date="1512845874329" expanded="true" signature="14386:14577" ph="/* foreach (var l in result) ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
